@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+# kakeibo_app
